@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'HT Grotesk Pro';
+    src: url('fonts/HTGroteskPro-Regular.woff2') format('woff2'),
+         url('fonts/HTGroteskPro-Regular.woff') format('woff'),
+         url('fonts/HTGroteskPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'HT Grotesk Pro', sans-serif;
+}
